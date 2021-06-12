@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppBancaLinea", "WebAppBancaLinea\WebAppBancaLinea.csproj", "{BFE12EBE-BFCA-4187-84B6-AFD6A3CBBC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE12EBE-BFCA-4187-84B6-AFD6A3CBBC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE12EBE-BFCA-4187-84B6-AFD6A3CBBC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE12EBE-BFCA-4187-84B6-AFD6A3CBBC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE12EBE-BFCA-4187-84B6-AFD6A3CBBC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C50D99F-388E-4C16-A443-7B462BF60C0C}
+	EndGlobalSection
+EndGlobal
